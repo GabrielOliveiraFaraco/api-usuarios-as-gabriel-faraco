@@ -1,13 +1,9 @@
-public  record  UsuarioCreateDto(
+namespace APIUsuarios.Application.DTOs;
 
-string  Nome,
-
-string  Email,
-
-string  Senha,
-
-DateTime  DataNascimento,
-
-string? Telefone
-
+public record UsuarioCreateDto(
+    string Nome,
+    string Email,
+    string Senha,
+    DateTime DataNascimento,
+    string? Telefone
 );
