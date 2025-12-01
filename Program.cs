@@ -1,6 +1,7 @@
 using APIUsuarios.Application.Interfaces;
 using APIUsuarios.Application.Services;
 using APIUsuarios.Application.Validators;
+using APIUsuarios.Application.DTOs;
 using APIUsuarios.Infrastructure.Persistence;
 using APIUsuarios.Infrastructure.Repositories;
 using FluentValidation;
