@@ -3,6 +3,11 @@
 ## Descrição
 API RESTful desenvolvida em ASP.NET Core 8 para gerenciamento de usuários, implementando Clean Architecture, padrões de projeto e boas práticas de desenvolvimento. A API permite operações CRUD completas com validações rigorosas e soft delete.
 
+## Vídeo de Apresentação
+Confira a demonstração completa do projeto, explicação do código e testes de endpoints clicando no link abaixo:
+
+https://youtu.be/1rOo4wl6Ecw
+
 ## Tecnologias Utilizadas
 - .NET 8.0
 - ASP.NET Core Minimal APIs
